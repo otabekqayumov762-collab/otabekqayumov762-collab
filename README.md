@@ -2,15 +2,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3500&pause=1000&color=00D1FF&center=true&vCenter=true&width=900&lines=👋+Salom!+Men+Otabek;🚀+Backend+Developer;🐍+Python+%7C+Django+%7C+FastAPI;💡+Murakkab+muammolarga+oddiy+yechimlar" alt="Typing SVG" />
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otabekqayumov762-collab&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Langs" />
-</div>
-
 ---
 
 ### 🚀 Men haqimda
-
-<img align="right" width="320" src="https://cdni.iconscout.com/illustration/premium/thumb/web-development-illustration-download-in-svg-png-gif-file-formats--programming-coding-developer-software-pack-network-communication-illustrations-4043135.png" />
 
 Backend tizimlar va yuqori yuklamali API'lar ustida ishlayman.  
 Asosiy e’tiborim: **tezkor, xavfsiz va kengaytiriladigan arxitektura** yaratish.  
