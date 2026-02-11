@@ -10,21 +10,22 @@
 
 ### 🚀 Men haqimda
 
-<img align="right" width="350" src="https://cdni.iconscout.com/illustration/premium/thumb/web-development-illustration-download-in-svg-png-gif-file-formats--programming-coding-developer-software-pack-network-communication-illustrations-4043135.png" />
+<img align="right" width="320" src="https://cdni.iconscout.com/illustration/premium/thumb/web-development-illustration-download-in-svg-png-gif-file-formats--programming-coding-developer-software-pack-network-communication-illustrations-4043135.png" />
 
-* 🔭 Hozirda **Backend tizimlar** va yuqori yuklamali API'lar ustida ishlayapman.
-* ⚡ **Django** va **FastAPI** yordamida xavfsiz va tezkor arxitektura qurishga ixtisoslashganman.
-* 🤖 **Machine Learning** va **Deep Learning** olamiga chuqurroq kirib bormoqdaman.
-* 🌍 O'zbekistondan turib global loyihalarga hissa qo'shish niyatidaman.
+Backend tizimlar va yuqori yuklamali API'lar ustida ishlayman.  
+Asosiy e’tiborim: **tezkor, xavfsiz va kengaytiriladigan arxitektura** yaratish.  
+
+- 🔹 **Django** va **FastAPI** bilan ishlab chiqish  
+- 🔹 High-load va scalable tizimlar  
+- 🔹 Machine Learning va Deep Learning olamiga kirish  
+- 🔹 Global loyihalarda ishtirok etish  
 
 ---
 
 ### 🛠 Texnologiyalar (Tech Stack)
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgresql,docker,redis,linux,git,github,postman,pytorch,tensorflow,aws,nginx&perline=7" />
-  </a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgresql,docker,redis,linux,git,github,postman,pytorch,tensorflow,aws,nginx&perline=7" />
 </p>
 
 ---
@@ -49,20 +50,32 @@
 
 ---
 
-### 🌱 O'rganishda davom etmoqdaman
+### 🌱 O‘rganishda davom etmoqdaman
 
-- [ ] **Microservices** — Tizimlarni kichik servislar orqali boshqarish.
-- [ ] **Kubernetes** — Konteynerlarni avtomatlashtirilgan tartibga solish.
-- [ ] **NLP (Natural Language Processing)** — Matnlar bilan ishlash AI.
+- [ ] **Microservices** — Katta tizimlarni kichik servislar orqali boshqarish  
+- [ ] **Kubernetes** — Konteynerlarni avtomatlashtirilgan boshqarish  
+- [ ] **NLP (Natural Language Processing)** — Matnlarni tahlil qilish va AI integratsiyasi  
 
 ---
 
-### 🌐 Aloqa uchun
+### 🌐 Aloqa
 
 <p align="left">
-  <a href="https://t.me/Otabek_Kayumov"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://t.me/khayumofff"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="mailto:otabekqayumov762@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/otabek-kayumov"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
+
+---
+
+### 💡 Ishlash falsafasi
+
+> "Murakkab muammolarni sodda, optimallashtirilgan va kengaytiriladigan yechimlar bilan hal qilish."  
+
+- Clean Code > Clever Code  
+- Performance va scalability birinchi o‘rinda  
+- Security — majburiy talablardan biri  
+
+---
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
